@@ -1,0 +1,107 @@
+/*!
+ * Start Bootstrap - Blog Post (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+/*hr { 
+	border-top: 1px solid #8c8b8b;
+}*/
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+footer {
+    margin: 50px 0;
+    text-align: center;
+    color: gray;
+}
+
+/*hr {
+	background-color: black;
+}
+*/
+
+a {	
+	color: #000;
+	text-decoration: none;
+}
+
+a:link {	
+	text-decoration: none;
+	color: #000;
+}
+
+a:visited {	
+	text-decoration: none;
+	color: #000;
+}
+
+a:hover {	
+	background:#fff4cc;
+    color: #000;
+    text-shadow: none;
+    text-decoration: none;
+}
+
+
+::selection {
+    background:#fff4cc;
+    color: #000;
+    text-shadow: none;
+}
+::-moz-selection {
+    background:#fff4cc;
+    color: #000;
+    text-shadow: none;
+}
+::-webkit-selection {
+    background:#fff4cc;
+    color: #000;
+    text-shadow: none;
+}
+
+
+
+
+.div-side {
+/*	float: right;*/
+    /*width: 25%;*/
+    box-sizing: border-box;
+    padding: 30px;2
+	background-color: #f7f7f7;
+}
+
+.div-side-title {
+	color: #2ac1bc;
+}
+
+
+.category {
+	color: #C6C6C6;
+}
+
+.categoryTitleDIV {
+	margin-bottom: 40px;
+	text-align: center;
+}
+
+.readMoreDIV {
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+.readMore {
+	border-bottom: 1px solid black;
+}
+
+
+
+.list-module {
+	border-bottom: 1px solid #dddddd;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+
