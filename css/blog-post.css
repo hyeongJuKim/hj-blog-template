@@ -83,12 +83,13 @@ a:hover {
 }
 
 .categoryTitleDIV {
-	margin-bottom: 40px;
+	margin-bottom: 35px;
 	text-align: center;
 }
 
 .readMoreDIV {
-	margin-bottom: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
 	text-align: center;
 }
 
@@ -100,8 +101,8 @@ a:hover {
 
 .list-module {
 	border-bottom: 1px solid #dddddd;
-	padding-top: 30px;
-	padding-bottom: 30px;
+	padding-top: 23px;
+	padding-bottom: 27px;
 }
 
 
